@@ -15,6 +15,8 @@ If you want to learn more about Quarkus, please visit its website: https://quark
 * [http://0.0.0.0:8080/quarkus/arc/beans](http://0.0.0.0:8080/quarkus/arc/beans)
 * [http://0.0.0.0:8080/quarkus/arc/observers](http://0.0.0.0:8080/quarkus/arc/observers)
 
+![Swagger UI](screenshot/swagger.png)
+
 ## Inspired by
 
 * [Quarkus - Simplified Hibernate ORM with Panache](https://quarkus.io/guides/hibernate-orm-panache)
