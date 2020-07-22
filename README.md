@@ -22,6 +22,18 @@ If you want to learn more about Quarkus, please visit its website: https://quark
 
 ## Quarkus documentation
 
+### Empty project
+
+The initial code was created with
+
+```
+mvn io.quarkus:quarkus-maven-plugin:1.6.0.Final:create     
+    -DprojectGroupId=be.webtechie.javaquarkusrestdb     
+    -DprojectArtifactId=javaquarkusrestdb    
+    -DclassName="be.webtechie.javaquarkusrestdb.resource.GreetingResource"     
+    -Dpath="/hello"
+```
+
 ### Running the application in dev mode
 
 You can run your application in dev mode that enables live coding using:
